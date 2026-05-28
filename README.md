@@ -1,2 +1,1 @@
 # Marketing-ai
-Marketing ai
